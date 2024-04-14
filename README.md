@@ -43,7 +43,7 @@ ChatBot.init(config);
 
 Optionally, give your bot a name.
 ```javascript
-ChatBot.setBotName("bender");
+ChatBot.setBotName("benderJ");
 ```
 
 You can now also manually define some patterns that the bot should be able to react to.
